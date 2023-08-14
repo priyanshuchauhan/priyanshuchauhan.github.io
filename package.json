@@ -1,6 +1,6 @@
 {
-  "name": "youtube-embed",
-  "version": "0.1.0",
+  "name": "shikshatube",
+  "version": "1.0.0",
   "homepage": "https://priyanshuchauhan.github.io",
   "private": true,
   "dependencies": {
